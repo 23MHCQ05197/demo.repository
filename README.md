@@ -1,2 +1,2 @@
 # Demo
-Using Github as a version controller for begginner
+Using Github as a version controller for begginner(learner)
